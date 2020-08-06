@@ -31,5 +31,6 @@ public class TareaNo1 {
                     System.out.println("Calculadora");
             }       
         } while (opcion != 4);
+            int numeroo;
     }
 }
