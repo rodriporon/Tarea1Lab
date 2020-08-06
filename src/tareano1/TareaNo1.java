@@ -32,5 +32,6 @@ public class TareaNo1 {
             }       
         } while (opcion != 4);
             int numeroo;
+            int estavariablenotienecommit;
     }
 }
